@@ -52,7 +52,7 @@ Codes for the Andriod application side can be accessed through [here](https://gi
 ***
 ## Final prototype
 [<img src="https://github.com/duyguroglu/BluetoothLedLDR/blob/main/project_images/video_screenshot.jpeg?raw=true">](https://player.vimeo.com/video/149284496)
-<img src="https://github.com/duyguroglu/BluetoothLedLDR/blob/main/project_images/final_overview.jpg?raw=true" alt="drawing" width="600"/>            |  <img src="https://github.com/duyguroglu/BluetoothLedLDR/blob/main/project_images/final_overview2.jpg?raw=true" alt="drawing" width="300"/> 
+<img src="https://github.com/duyguroglu/BluetoothLedLDR/blob/main/project_images/final_overview.jpg?raw=true" alt="drawing" width="500"/>            |  <img src="https://github.com/duyguroglu/BluetoothLedLDR/blob/main/project_images/final_overview2.jpg?raw=true" alt="drawing" width="300"/> 
 
 The video shows the final working prototype.
 
