@@ -61,7 +61,7 @@ Of course, since we are not programmers, there is a lot to improve. This instruc
 
 - Instead of creating a new text box for every input (the list becomes very long as you can see in the video), the input could be displayed in just one text box where the number would change instead of adding a new number to it.
 
-- The old buttons from the applications could be removed.
+- Old buttons from the applications could be removed.
 
 - New feedback on the on/off state of the LED could be given.
 
