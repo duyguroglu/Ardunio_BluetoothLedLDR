@@ -31,3 +31,6 @@ With the help of the RFduino module, we managed to get an analogue LDR input and
   |  ![plugged](https://github.com/duyguroglu/BluetoothLedLDR/blob/main/project_images/plugged.jpg?raw=true) 
   
 Following the download and install of required libraries & IDEs, we connect RFDunio to our computer.
+***
+## Circuit Schematic
+![pins](https://github.com/duyguroglu/BluetoothLedLDR/blob/main/project_images/pins.jpg?raw=true)             |  ![circuit_schematic](https://github.com/duyguroglu/BluetoothLedLDR/blob/main/project_images/circuit_schematic.jpg?raw=true) 
